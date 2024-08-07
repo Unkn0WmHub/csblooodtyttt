@@ -1,0 +1,577 @@
+{
+    "_ASPage":{
+        "EN" : "Mini player management system",
+        "RU" : "Мини-система управления игроками"
+    },
+
+    "_ASAddBan":{
+        "EN" : "Add ban",
+        "RU" : "Добавить бан"
+    },
+
+    "_ASAddBanDesc":{
+        "EN" : "The list of bans, adding bans and deleting",
+        "RU" : "Список банов, добавление банов и удаление"
+    },
+
+    "_ASAddGag":{
+        "EN" : "Add gag",
+        "RU" : "Добавить гаг"
+    },
+
+    "_ASListBan":{
+        "EN" : "The list of bans",
+        "RU" : "Список банов"
+    },
+
+    "_ASFlags":{
+        "EN" : "Admin Flags",
+        "RU" : "Флаги администратора"
+    },
+
+    "_ASImmun":{
+        "EN" : "Administrator's immunity",
+        "RU" : "Иммунитет администратора"
+    },
+
+    "_AS4islo":{
+        "EN" : "Specify a number from 1-100",
+        "RU" : "Укажите число от 1-100"
+    },
+
+    "_ASPrivTime":{
+        "EN" : "Time until the end of the privilege (days)",
+        "RU" : "Время до конца привилегии (дни)"
+    },
+
+    "_ASCommDop":{
+        "EN" : "Discord, VK, or just a note for yourself",
+        "RU" : "Discord, VK или просто пометку для себя"
+    },
+
+    "_ASCommDop2":{
+        "EN" : "SeverskiY bullied me...",
+        "RU" : "SeverskiY Буллил меня..."
+    },
+
+    "_ASListGags":{
+        "EN" : "List of gags",
+        "RU" : "Список гагов"
+    },
+    
+    "_ASListMutes":{
+        "EN" : "List of mutes",
+        "RU" : "Список мутов"
+    },
+
+    "_ASAddMutesss":{
+        "EN" : "(MICROPHONE LOCK)",
+        "RU" : "(БЛОКИРОВКА МИКРОФОНА)"
+    },
+
+    "_ASAddGagsss":{
+        "EN" : "(BLOCKING THE CHAT)",
+        "RU" : "(БЛОКИРОВКА ЧАТА)"
+    },
+
+    "_ASAddGagDesc":{
+        "EN" : "List of gags, adding gags and deleting",
+        "RU" : "Список гагов, добавление гагов и удаление"
+    },
+
+    "_ASAddAdmin":{
+        "EN" : "Add an Administrator",
+        "RU" : "Добавить администратора"
+    },
+
+    "_ASSlay":{
+        "EN" : "Slay",
+        "RU" : "Убийство"
+    },
+
+    "_ASSlot":{
+        "EN" : "Reserve slot",
+        "RU" : "Резервный слот"
+    },
+
+    "_ASKick":{
+        "EN" : "Kick",
+        "RU" : "Кик"
+    },
+
+    "_ASBan":{
+        "EN" : "Ban",
+        "RU" : "Бан"
+    },
+
+    "_ASUnban":{
+        "EN" : "Unban",
+        "RU" : "Разбан"
+    },
+
+    "_ASAdmin":{
+        "EN" : "Administrator",
+        "RU" : "Администратор"
+    },
+
+    "_ASMute":{
+        "EN" : "Mute",
+        "RU" : "Мут"
+    },
+
+    "_ASMap":{
+        "EN" : "Changing map",
+        "RU" : "Смена карты"
+    },
+
+
+    "_ASPW":{
+        "EN" : "Password",
+        "RU" : "Пароль"
+    },
+
+    "_ASVoting":{
+        "EN" : "Voting",
+        "RU" : "Голосование"
+    },
+
+    "_ASAdminAccess":{
+        "EN" : "Access",
+        "RU" : "Доступ"
+    },
+
+    "_ASExpires":{
+        "EN" : "Expires",
+        "RU" : "Истекает"
+    },
+
+    "_ASComment":{
+        "EN" : "Comment",
+        "RU" : "Комментарий"
+    },
+
+    "_ASCFlagDop":{
+        "EN" : "Additional",
+        "RU" : "Дополнительный"
+    },
+
+    "_ASAction":{
+        "EN" : "Action",
+        "RU" : "Действие"
+    },
+
+    "_ASAdminDel":{
+        "EN" : "Remove the administrator",
+        "RU" : "Удалить администратора"
+    },
+
+    "_ASProf":{
+        "EN" : "Profile",
+        "RU" : "Профиль"
+    },
+
+    "_ASListAdmin":{
+        "EN" : "List of administrators",
+        "RU" : "Список администраторов"
+    },
+
+    "_ASAddMute":{
+        "EN" : "Add mute",
+        "RU" : "Добавить мут"
+    },
+
+    "_ASPlayer":{
+        "EN" : "Player",
+        "RU" : "Игрок"
+    },
+
+    "_ASIssued":{
+        "EN" : "Issued",
+        "RU" : "Выдан"
+    },
+
+    "_ASReason":{
+        "EN" : "Reason",
+        "RU" : "Причина"
+    },
+
+    "_ASExpired":{
+        "EN" : "Expired",
+        "RU" : "Истекло"
+    },
+
+    "_ASRemPunish":{
+        "EN" : "To remove the punishment",
+        "RU" : "Снять наказание"
+    },
+
+    "_ASGetSteam":{
+        "EN" : "You can get it in SteamFinder",
+        "RU" : "Получить можно в SteamFinder"
+    },
+
+    "_ASDurationSec":{
+        "EN" : "Duration (in seconds)",
+        "RU" : "Продолжительность (в секундах)"
+    },
+
+    "_AS00":{
+        "EN" : "0 = forever, do not specify = 0",
+        "RU" : "0 = навсегда, не указывать = 0"
+    },
+
+    "_ASSpecValidPunish":{
+        "EN" : "Specify the valid reason for the punishment",
+        "RU" : "Укажите действительную причину наказания"
+    },
+
+    "_ASVorRes":{
+        "EN" : "Stealing. I'm a thief...",
+        "RU" : "Воровал. Я вор..."
+    },
+    
+    "_ASAddMuteDesc":{
+        "EN" : "List of mutes, adding mutes and deleting",
+        "RU" : "Список мутов, добавление мутов и удаление"
+    },
+
+    "_ASAddSettings":{
+        "EN" : "Settings",
+        "RU" : "Настройки"
+    },
+
+    "_ASAddVip":{
+        "EN" : "Add a VIP Player",
+        "RU" : "Добавить VIP-игрока"
+    },
+
+    "_ASAddVipList":{
+        "EN" : "List of VIP players",
+        "RU" : "Список VIP-игроков"
+    },
+
+    "_ASAddAddVip":{
+        "EN" : "Issuance of VIP rights",
+        "RU" : "Выдача VIP прав"
+    },
+
+    "_ASAddAddAddVip":{
+        "EN" : "Access to the addition of VIP players",
+        "RU" : "Доступ к добавлению VIP игроков"
+    },
+
+    "_ASr8":{
+        "EN" : "List of administrators with access to granting privileges",
+        "RU" : "Список администраторов с доступом к выдаче привилегий"
+    },
+
+    "_ASAddAddAdmin":{
+        "EN" : "Granting admin rights",
+        "RU" : "Выдача админ прав"
+    },
+
+    "_ASAddAddAddAdmin":{
+        "EN" : "Access to add administrators",
+        "RU" : "Доступ к добавлению администраторов"
+    },
+
+    "_ASNo":{
+        "EN" : "No",
+        "RU" : "Нет"
+    },
+
+    "_ASYes":{
+        "EN" : "There are",
+        "RU" : "Есть"
+    },
+
+    "_ASAddSettingsDesc":{
+        "EN" : "Access control, group creation",
+        "RU" : "Управление доступом, создание групп"
+    },
+
+    "_ASAddTable":{
+        "EN" : "Create tables",
+        "RU" : "Создать таблицы"
+    },
+
+    "_ASASaveSettings": {
+        "EN": "Settings saved!",
+        "RU": "Настройки сохранены!"
+    },
+    
+    "_ASAGroupsCreate": {
+        "EN": "Group successfully created!",
+        "RU": "Группа успешно создана!"
+    },
+    
+    "_ASAGroupVIP": {
+        "EN": "VIP Group",
+        "RU": "Группа"
+    },
+        
+    "_ASServerID": {
+        "EN": "Server ID",
+        "RU": "Сервер ID"
+    },
+    
+    "_ASDelVIP": {
+        "EN": "Remove VIP Player",
+        "RU": "Удалить VIP-игрока"
+    },
+    
+    "_ASInputVIP": {
+        "EN": "Specify the group you created in the config",
+        "RU": "Укажите группу, которую вы создали в конфиге"
+    },
+    
+    "_ASIDCFG": {
+        "EN": "ID can be found in the config",
+        "RU": "Узнать ID можно в конфиге"
+    },
+    
+    "_ASNameGroup0": {
+        "EN": "Group name cannot be empty!",
+        "RU": "Имя группы не может быть пустой!"
+    },
+    
+    "_ASID0": {
+        "EN": "Server ID cannot be empty!",
+        "RU": "ID сервера не может быть пустым!"
+    },
+    
+    "_ASGoodVIP": {
+        "EN": "VIP player successfully added!",
+        "RU": "VIP-игрок успешно добавлен!"
+    },
+    
+    "_ASAddVipDesc":{
+        "EN" : "Adding and removing project VIP players",
+        "RU" : "Добавление, удаление VIP-игроков проекта"
+    },
+    
+    "_ASAImm100": {
+        "EN": "Immunity must be in the range from 1 to 100!",
+        "RU": "Имунитет может быть в интервале от 1 до 100!"
+    },
+    
+    "_ASAccessAdd": {
+        "EN": "Access successfully added!",
+        "RU": "Доступ успешно добавлен!"
+    },
+    
+    "_ASCreateTable": {
+        "EN": "Tables successfully created! Reloading...",
+        "RU": "Таблицы успешно созданы! Перезагрузка..."
+    },
+    
+    "_ASCreateTableError": {
+        "EN": "Tables have already been created, wait for a reload!",
+        "RU": "Таблицы уже были созданы, дождитесь перезагрузки!"
+    },
+    
+    "_ASSteamError": {
+        "EN": "Steam specified incorrectly!",
+        "RU": "Steam указан неверно!"
+    },
+    
+    "_ASTime0": {
+        "EN": "Time cannot be less than 0!",
+        "RU": "Время не может меньше 0!"
+    },
+    
+    "_ASAadAdm": {
+        "EN": "Administrator successfully added!",
+        "RU": "Администратор успешно добавлен!"
+    },
+    
+    "_ASAadGag": {
+        "EN": "Chat mute successfully applied!",
+        "RU": "Блокировка чата успешно выдана!"
+    },
+    
+    "_ASAadMute": {
+        "EN": "Microphone mute successfully applied!",
+        "RU": "Блокировка микрофона успешно выдана!"
+    },
+    
+    "_ASAadBan": {
+        "EN": "Server ban successfully applied!",
+        "RU": "Блокировка на сервере успешно выдана!"
+    },
+    
+    "_ASSteamErrorA": {
+        "EN": "Administrator with the specified Steam already exists!",
+        "RU": "Администратор с указанным Steam уже существует!"
+    },
+
+    "_ASAvailableGr": {
+        "EN": "Available groups",
+        "RU": "Доступные группы"
+    },
+    
+    "_ASGroupSys": {
+        "EN": "Group system",
+        "RU": "Система групп"
+    },
+    
+    "_ASEnabled": {
+        "EN": "Enabled",
+        "RU": "Включена"
+    },
+    
+    "_ASDisabled": {
+        "EN": "Disabled",
+        "RU": "Выключена"
+    },
+    
+    "_ASRemoveAccess": {
+        "EN": "Remove access",
+        "RU": "Удалить доступ"
+    },
+    
+    "_ASName": {
+        "EN": "Name",
+        "RU": "Название"
+    },
+    
+    "_ASFlag": {
+        "EN": "Flags",
+        "RU": "Флаги"
+    },
+    
+    "_ASImmunity": {
+        "EN": "Immunity",
+        "RU": "Иммунитет"
+    },
+    
+    "_ASRemoveGr": {
+        "EN": "Remove group",
+        "RU": "Удалить группу"
+    },
+    
+    "_ASNull": {
+        "EN": "Write what you want, just not emptiness",
+        "RU": "Пишите, что хотите, главное не пустота"
+    },
+    
+    "_ASNameGr": {
+        "EN": "Your group name",
+        "RU": "Название вашей группы"
+    },
+    
+    "_ASFlagsGr": {
+        "EN": "Group flags",
+        "RU": "Флаги группы"
+    },
+    
+    "_ASImmGr": {
+        "EN": "Group immunity",
+        "RU": "Иммунитет группы"
+    },
+    
+    "_ASCreateGroup": {
+        "EN": "Create group",
+        "RU": "Создать группу"
+    },
+    
+    "_ASSave": {
+        "EN": "Save",
+        "RU": "Сохранить"
+    },
+    
+    "_ASAddAccess": {
+        "EN": "Add access",
+        "RU": "Добавить доступ"
+    },
+
+    "_ASSysTime": {
+        "EN": "Ready Time System",
+        "RU": "Система готового времени"
+    },
+    
+    "_ASListGroups": {
+        "EN": "List of Created Groups",
+        "RU": "Список созданных групп"
+    },
+    
+    "_ASTimeNakaz": {
+        "EN": "Punishment Time",
+        "RU": "Время наказания"
+    },
+    
+    "_ASDelZag": {
+        "EN": "Delete Template",
+        "RU": "Удалить заготовку"
+    },
+    
+    "_ASNameNakazTime": {
+        "EN": "Name of Created Time",
+        "RU": "Название созданного времени"
+    },
+    
+    "_ASPon": {
+        "EN": "Specify a Clear Name Here",
+        "RU": "Укажите сюда понятное название"
+    },
+    
+    "_AScas": {
+        "EN": "hours",
+        "RU": "часа"
+    },
+    
+    "_ASSecTime": {
+        "EN": "Specify Time in Seconds",
+        "RU": "Укажите время в секундах"
+    },
+    
+    "_ASAddNakaz": {
+        "EN": "Create Punishment Template",
+        "RU": "Создать заготовку наказания"
+    },
+    
+    "_ASPustoDura": {
+        "EN": "Reason cannot be empty!",
+        "RU": "Причина не может быть пустой!"
+    },
+    
+    "_ASNAzDura": {
+        "EN": "Template name cannot be empty!",
+        "RU": "Название заготовки не может быть пустым!"
+    },
+    
+    "_ASTimeGood": {
+        "EN": "Time template created successfully!",
+        "RU": "Заготовка времени успешно создана!"
+    },
+    
+    "_ASAdmDroupssss": {
+        "EN": "Administrator Groups",
+        "RU": "Группы администраторов"
+    },
+    
+    "_ASExpLox": {
+        "EN": "Expired",
+        "RU": "Истек"
+    },
+    
+    "_ASListTtime": {
+        "EN": "List of Ready Time",
+        "RU": "Список готового времени"
+    },
+    
+    "_ASDostupGood": {
+        "EN": "Access for this Steam already exists",
+        "RU": "Доступ у этого Steam уже есть"
+    },
+    
+    "_ASVIPGood": {
+        "EN": "VIP player with this Steam or Sid already exists!",
+        "RU": "VIP-игрок с таким Steam или Sid уже существует!"
+    },    
+    
+    "_ASAddAdminDesc":{
+        "EN" : "Adding or removing project administration",
+        "RU" : "Добавление, удаление администрации проекта"
+    }
+}
